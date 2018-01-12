@@ -1,6 +1,7 @@
 # News bias classifier
-This is a page to track issues related to the news bias classifier project here: www.github.com/N2ITN/newscraper
-The project is part of D4D but is hosted in the original repo location.
+This is a page to track issues related to the news bias classifier project on this repo: www.github.com/N2ITN/newscraper
+The project is part of D4D but is hosted in the original repo location, to view the code, clone the project, and for more  documentation visit the repo.
+The webapp is accessible to the public at www.areyoufakenews.com
 
 ## Project leads
 Lead "@Zach Estela"
