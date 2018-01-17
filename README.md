@@ -16,7 +16,7 @@ If you haven't already, [read this first](https://github.com/Data4Democracy/read
 
 ### Things you should know about
 * **"First-timers" are welcome!** Whether you're trying to learn data science, hone your coding skills, or get started collaborating over the web, we're happy to help. *(Sidenote: with respect to Git and GitHub specifically, our [github-playground](https://github.com/Data4Democracy/github-playground) repo and the [#github-help](https://datafordemocracy.slack.com/messages/github-help/) Slack channel are good places to start.)*
-* **We've got (GitHub) Issues.** Ready to dive in and do some good? Check out our [weekly update](https://docs.google.com/document/d/1azJZBPo9438ZOc73Gq2_AWbciKXgwBXiJk5gUAwGA0c) and our [issues board](https://github.com/Data4Democracy/are-you-fake-news/issues). Issues are how we officially keep track of the work we're doing, what we've done, and what we'd like to do next. If you'd like to work on something, comment on the issue and/or ping a lead on Slack so we can make assignments.
+* **We've got (GitHub) Issues.** Ready to dive in and do some good? Check out our [issues board](https://github.com/Data4Democracy/are-you-fake-news/issues). Issues are how we officially keep track of the work we're doing, what we've done, and what we'd like to do next. If you'd like to work on something, comment on the issue and/or ping a lead on Slack so we can make assignments.
 
     You can identify different issue types by their tags. If you're new to either Github or data science, pay special attention to:
     * `first-pr`: smaller issues to cut your teeth on as a first-time contributor
