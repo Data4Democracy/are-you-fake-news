@@ -4,7 +4,7 @@ The project is part of D4D but is hosted in the original repo location, to view 
 The webapp is accessible to the public at www.areyoufakenews.com
 
 ## Project leads
-Lead "@Zach Estela"
+Lead: Slack - "@Zach Estela", Github - @N2ITN
 
 ## Project Description
 In an era of misinformation and polarized politics, it's important for internet users to have context for what's on their screen. This microservice uses natural language processing and deep learning to analyze patterns of bias on any news website in real time. Each time a url is submitted, dozens of the most recent articles are collected and analyzed for a variety of factors, from political bias to journalistic accuracy. The results are displayed in charts for the user.
