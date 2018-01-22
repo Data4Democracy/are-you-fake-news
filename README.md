@@ -31,6 +31,6 @@ Take a look at this list to get an idea of the tools and knowledge we're leverag
 * **Linux/Bash** (scripting, server management)
 * **Flask/Jinja 2/HTML templating** (front end stack)
 * **JavaScript** (front end, and soon for interactive data visualization)
-* **AWS EC2 & AWS Lambda** (backend infrastructure
+* **AWS EC2 & AWS Lambda** (backend infrastructure)
 * **MongoDB** (NoSQL database)
 * **TensorFlow/Keras** (deep learning)
